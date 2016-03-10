@@ -13,8 +13,8 @@ baseurl: ''
 social:
   github: 
   linkedin: 'titus-ragins-29851844'
-  rallypoint: 'chiefknows'
-  rss: feed.xml
+  rallypoint: 'chiefragins'
+ # rss: feed.xml
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key:
